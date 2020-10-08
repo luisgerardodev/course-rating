@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/luisgerardodev/course-rating.git/static/css/main.cd853d54.chunk.css",
-    "main.js": "/luisgerardodev/course-rating.git/static/js/main.efdd9ace.chunk.js",
-    "main.js.map": "/luisgerardodev/course-rating.git/static/js/main.efdd9ace.chunk.js.map",
-    "runtime-main.js": "/luisgerardodev/course-rating.git/static/js/runtime-main.c73201a8.js",
-    "runtime-main.js.map": "/luisgerardodev/course-rating.git/static/js/runtime-main.c73201a8.js.map",
-    "static/js/2.16936fff.chunk.js": "/luisgerardodev/course-rating.git/static/js/2.16936fff.chunk.js",
-    "static/js/2.16936fff.chunk.js.map": "/luisgerardodev/course-rating.git/static/js/2.16936fff.chunk.js.map",
-    "index.html": "/luisgerardodev/course-rating.git/index.html",
-    "precache-manifest.a65df0fb893bf2134543b148eb1243ec.js": "/luisgerardodev/course-rating.git/precache-manifest.a65df0fb893bf2134543b148eb1243ec.js",
-    "service-worker.js": "/luisgerardodev/course-rating.git/service-worker.js",
-    "static/css/main.cd853d54.chunk.css.map": "/luisgerardodev/course-rating.git/static/css/main.cd853d54.chunk.css.map",
-    "static/js/2.16936fff.chunk.js.LICENSE.txt": "/luisgerardodev/course-rating.git/static/js/2.16936fff.chunk.js.LICENSE.txt"
+    "main.css": "/course-rating/static/css/main.cd853d54.chunk.css",
+    "main.js": "/course-rating/static/js/main.efdd9ace.chunk.js",
+    "main.js.map": "/course-rating/static/js/main.efdd9ace.chunk.js.map",
+    "runtime-main.js": "/course-rating/static/js/runtime-main.40f56100.js",
+    "runtime-main.js.map": "/course-rating/static/js/runtime-main.40f56100.js.map",
+    "static/js/2.16936fff.chunk.js": "/course-rating/static/js/2.16936fff.chunk.js",
+    "static/js/2.16936fff.chunk.js.map": "/course-rating/static/js/2.16936fff.chunk.js.map",
+    "index.html": "/course-rating/index.html",
+    "precache-manifest.b406a567f68c1bd70b3825d62e7379bc.js": "/course-rating/precache-manifest.b406a567f68c1bd70b3825d62e7379bc.js",
+    "service-worker.js": "/course-rating/service-worker.js",
+    "static/css/main.cd853d54.chunk.css.map": "/course-rating/static/css/main.cd853d54.chunk.css.map",
+    "static/js/2.16936fff.chunk.js.LICENSE.txt": "/course-rating/static/js/2.16936fff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c73201a8.js",
+    "static/js/runtime-main.40f56100.js",
     "static/js/2.16936fff.chunk.js",
     "static/css/main.cd853d54.chunk.css",
     "static/js/main.efdd9ace.chunk.js"
