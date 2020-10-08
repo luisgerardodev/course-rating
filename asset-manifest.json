@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/luisgerardodev/course-rating.git/static/css/main.cd853d54.chunk.css",
+    "main.js": "/luisgerardodev/course-rating.git/static/js/main.efdd9ace.chunk.js",
+    "main.js.map": "/luisgerardodev/course-rating.git/static/js/main.efdd9ace.chunk.js.map",
+    "runtime-main.js": "/luisgerardodev/course-rating.git/static/js/runtime-main.c73201a8.js",
+    "runtime-main.js.map": "/luisgerardodev/course-rating.git/static/js/runtime-main.c73201a8.js.map",
+    "static/js/2.16936fff.chunk.js": "/luisgerardodev/course-rating.git/static/js/2.16936fff.chunk.js",
+    "static/js/2.16936fff.chunk.js.map": "/luisgerardodev/course-rating.git/static/js/2.16936fff.chunk.js.map",
+    "index.html": "/luisgerardodev/course-rating.git/index.html",
+    "precache-manifest.a65df0fb893bf2134543b148eb1243ec.js": "/luisgerardodev/course-rating.git/precache-manifest.a65df0fb893bf2134543b148eb1243ec.js",
+    "service-worker.js": "/luisgerardodev/course-rating.git/service-worker.js",
+    "static/css/main.cd853d54.chunk.css.map": "/luisgerardodev/course-rating.git/static/css/main.cd853d54.chunk.css.map",
+    "static/js/2.16936fff.chunk.js.LICENSE.txt": "/luisgerardodev/course-rating.git/static/js/2.16936fff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c73201a8.js",
+    "static/js/2.16936fff.chunk.js",
+    "static/css/main.cd853d54.chunk.css",
+    "static/js/main.efdd9ace.chunk.js"
+  ]
+}
